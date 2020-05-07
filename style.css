@@ -1,0 +1,47 @@
+       .diagonalBox {
+            background: rgb(143, 208, 241);
+            background-image: linear-gradient(-225deg, #473B7B 0%, #3584A7 51%, #30D2BE 100%);
+            padding: 100px 0;
+            transform: skew(0deg, -4deg) translateY(-90px);
+            position: relative;
+        }
+        .smallRound {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            text-align: center;
+            margin-left: 54%;
+            margin-top: -2%;
+        }
+        .blue {
+            background: -webkit-linear-gradient(-225deg, #473B7B 0%, #3584A7 51%, #30D2BE 100%)
+        }
+        .marginBox {
+            margin-top: -150px;
+            position: relative;
+        }
+        .avatarImg {
+            background: -webkit-linear-gradient(-225deg, #473B7B 0%, #3584A7 51%, #30D2BE 100%);
+            width: 200px;
+            height: 200px;
+            border-radius: 1500px;
+            padding: 10px;
+        }
+        img {
+            vertical-align: middle;
+            border-style: none;
+        }
+        .fa {
+            color: blue;
+        }
+        .showcase {
+            background-image: linear-gradient(-225deg, #473B7B 0%, #3584A7 51%, #30D2BE 100%);
+            width: 111px;
+            padding: 12px;
+        }
+        .shadow-lg {
+            box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175) !important;
+        }
+        .body-text{
+            font-family: 'Playfair Display', serif;
+        }
