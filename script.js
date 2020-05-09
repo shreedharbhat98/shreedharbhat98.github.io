@@ -14,3 +14,7 @@ document.getElementById("twitter").addEventListener("click", function () {
 document.getElementById("hackerrank").addEventListener("click", function () {
     window.location.href = "https://www.hackerrank.com/Shridharbhat1998"
 })
+new GitHubCalendar(".calendar", "shreedharbhat98",
+            {
+                responsive: true
+            });
